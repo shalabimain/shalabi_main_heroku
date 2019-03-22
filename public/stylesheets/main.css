@@ -9,6 +9,7 @@ h1 {
     margin-top: 20px;
 }
 
+
 .home {
     color: red;
     font-size: 25px;
@@ -40,6 +41,6 @@ div.col-md-7.col-sm-12 {
     margin-top: 90px;
 }
 
-div.col-lg-6.text-center {
+div.col-lg-12.text-center {
     margin-top: 150px;
 }
